@@ -23,9 +23,9 @@
 "operator" = "base05"
 "special" = "base0D"
 "string"  = "base0B"
-"type" = "base0A"
-"variable" = "base06"
-"variable.other.member" = "base0B"
+"type" = "base0D"
+"variable" = "base05"
+"variable.other.member" = "base05"
 "warning" = "base09"
 
 "markup.bold" = { fg = "base0A", modifiers = ["bold"] }
